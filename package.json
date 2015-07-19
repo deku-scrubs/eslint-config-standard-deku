@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-standard-react",
-  "description": "JavaScript Standard Style React/JSX support - ESLint Shareable Config",
+  "name": "eslint-config-standard-deku",
+  "description": "JavaScript Standard Style Deku/JSX support - ESLint Shareable Config",
   "version": "1.0.2",
   "author": {
     "name": "Feross Aboukhadijeh",
@@ -8,7 +8,7 @@
     "url": "http://feross.org/"
   },
   "bugs": {
-    "url": "https://github.com/feross/eslint-config-standard-react/issues"
+    "url": "https://github.com/feross/eslint-config-standard-deku/issues"
   },
   "peerDependencies": {
     "eslint-plugin-react": ">=2.7.1",
@@ -43,14 +43,14 @@
     "code standards",
     "JavaScript Standard Style",
     "standard style",
-    "react",
+    "deku",
     "jsx"
   ],
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/eslint-config-standard-react.git"
+    "url": "git://github.com/feross/eslint-config-standard-deku.git"
   },
   "scripts": {
     "test": "tape test/*.js"
