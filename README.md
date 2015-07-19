@@ -1,16 +1,16 @@
-# Standard React - ESLint Shareable Config
+# Standard Deku - ESLint Shareable Config
 [![travis][travis-image]][travis-url]
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/feross/eslint-config-standard-react.svg?style=flat
-[travis-url]: https://travis-ci.org/feross/eslint-config-standard-react
-[npm-image]: https://img.shields.io/npm/v/eslint-config-standard-react.svg?style=flat
-[npm-url]: https://npmjs.org/package/eslint-config-standard-react
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard-react.svg?style=flat
-[downloads-url]: https://npmjs.org/package/eslint-config-standard-react
+[travis-image]: https://img.shields.io/travis/feross/eslint-config-standard-deku.svg?style=flat
+[travis-url]: https://travis-ci.org/feross/eslint-config-standard-deku
+[npm-image]: https://img.shields.io/npm/v/eslint-config-standard-deku.svg?style=flat
+[npm-url]: https://npmjs.org/package/eslint-config-standard-deku
+[downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard-deku.svg?style=flat
+[downloads-url]: https://npmjs.org/package/eslint-config-standard-deku
 
-#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for React/JSX support in [JavaScript Standard Style](https://github.com/feross/standard)
+#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for Deku/JSX support in [JavaScript Standard Style](https://github.com/feross/standard)
 
 This module is for advanced users. You probably want to use [`standard`](https://github.com/feross/standard) instead :)
 
@@ -19,7 +19,7 @@ This module is for advanced users. You probably want to use [`standard`](https:/
 ## Install
 
 ```bash
-npm install eslint-config-standard-react
+npm install eslint-config-standard-deku
 ```
 
 ## Usage
@@ -29,20 +29,20 @@ You can learn more about
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
 official ESLint website.
 
-This Shareable Config adds React and JSX to the baseline JavaScript Standard Style rules
+This Shareable Config adds Deku and JSX to the baseline JavaScript Standard Style rules
 provided in `eslint-config-standard`.
 
 Here's how to install everything you need:
 
 ```bash
-npm install eslint-config-standard eslint-config-standard-react eslint-plugin-react
+npm install eslint-config-standard eslint-config-standard-deku eslint-plugin-deku
 ```
 
 Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": ["standard", "standard-react"]
+  "extends": ["standard", "standard-deku"]
 }
 ```
 
