@@ -8,7 +8,7 @@
     "url": "http://feross.org/"
   },
   "bugs": {
-    "url": "https://github.com/ashaffer/eslint-config-standard-deku/issues"
+    "url": "https://github.com/deku-scrubs/eslint-config-standard-deku/issues"
   },
   "peerDependencies": {
     "eslint-plugin-react": ">=2.7.1",
@@ -17,7 +17,7 @@
   "devDependencies": {
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/ashaffer/eslint-config-standard-deku",
+  "homepage": "https://github.com/deku-scrubs/eslint-config-standard-deku",
   "keywords": [
     "standard",
     "style checker",
@@ -50,7 +50,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ashaffer/eslint-config-standard-deku.git"
+    "url": "git://github.com/deku-scrubs/eslint-config-standard-deku.git"
   },
   "scripts": {
     "test": "tape test/*.js"
