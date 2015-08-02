@@ -3,15 +3,14 @@
   "description": "JavaScript Standard Style Deku/JSX support - ESLint Shareable Config",
   "version": "1.0.4",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
+    "name": "Andrew Shaffer",
+    "url": "http://github.com/ashaffer"
   },
   "bugs": {
     "url": "https://github.com/deku-scrubs/eslint-config-standard-deku/issues"
   },
   "peerDependencies": {
-    "eslint-plugin-react": ">=2.7.1",
+    "eslint-plugin-deku": ">=2.7.1",
     "eslint": ">=0.24.1 || ^1.0.0-rc-0"
   },
   "devDependencies": {
