@@ -21,6 +21,7 @@
     "deku/no-multi-comp": 0,
     "deku/no-unknown-property": 2,
     "deku/prop-types": 2,
+    "deku/deku-in-jsx-scope": [2, {"pragma": "element"}],
     "deku/self-closing-comp": 2,
     "deku/sort-comp": 0,
     "deku/wrap-multilines": 2
