@@ -1,14 +1,4 @@
 # Standard Deku - ESLint Shareable Config
-[![travis][travis-image]][travis-url]
-[![npm][npm-image]][npm-url]
-[![downloads][downloads-image]][downloads-url]
-
-[travis-image]: https://img.shields.io/travis/feross/eslint-config-standard-deku.svg?style=flat
-[travis-url]: https://travis-ci.org/feross/eslint-config-standard-deku
-[npm-image]: https://img.shields.io/npm/v/eslint-config-standard-deku.svg?style=flat
-[npm-url]: https://npmjs.org/package/eslint-config-standard-deku
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard-deku.svg?style=flat
-[downloads-url]: https://npmjs.org/package/eslint-config-standard-deku
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for Deku/JSX support in [JavaScript Standard Style](https://github.com/feross/standard)
 
